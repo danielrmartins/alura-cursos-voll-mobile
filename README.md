@@ -29,9 +29,9 @@ O código fonte desta aplicação pode ser acessado em seu repositório no GitHu
 
 1. Clone o repositório para sua máquina local
 2. Instale as dependências necessárias com o comando
-   `npm install`
+   `yarn`
 3. Execute a aplicação com o comando
-   `npx expo start`
+   `yarn start`
 
 ## 📚 Mais informações
 
